@@ -4,7 +4,7 @@ Generates distinctive, production-grade frontend interfaces that avoid generic A
 
 ## What It Does
 
-Claude automatically uses this skill for frontend work. Creates production-ready code with:
+Claude automatically uses this skill for frontend work. Creates production-ready code with:e
 
 - Bold aesthetic choices
 - Distinctive typography and color palettes
